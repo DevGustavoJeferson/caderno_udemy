@@ -26,7 +26,7 @@
 #### ⭐ **Avaliação Final da Sessão**
 
 **Nota:** ⭐⭐⭐⭐⭐ **5 / 5**
-Uma sessão **muito objetiva**, **bem fundamentada** e extremamente útil
+- Uma sessão **muito objetiva**, **bem fundamentada** e extremamente útil
 para criar uma **base sólida**.
 
 🔤 **[2_sessao_OS](/Cursos/Informática/2_sessao_OS/)**  
@@ -81,7 +81,7 @@ para criar uma **base sólida**.
 
 ## 🗺️ Roadmap do Curso
  
-- [ ] **1️⃣ [1_sessao_informatica](/Cursos/Informática/1_sessao_informatica/)** — Fundamentos da Informática  
+- [x] **1️⃣ [1_sessao_informatica](/Cursos/Informática/1_sessao_informatica/)** — Fundamentos da Informática  
 - [ ] **2️⃣ [2_sessao_OS](/Cursos/Informática/2_sessao_OS/)** — Sistemas Operacionais  
 - [ ] **3️⃣ [3_sessao_redes](/Cursos/Informática/3_sessao_redes/)** — Redes de Computadores  
 - [ ] **4️⃣ [4_sessao_linguagem_programacao](/Cursos/Informática/4_sessao_linguagem_programacao/)** — Lógica e Linguagens de Programação  
