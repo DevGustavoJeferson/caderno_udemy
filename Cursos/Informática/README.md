@@ -8,7 +8,26 @@
 ## 📚 Seções do Curso — com Avaliação
 
 🟢 **[1_sessao_informatica](/Cursos/Informática/1_sessao_informatica/)**  
-💭 Futura opinião sobre a introdução...
+#### 📝 **Visão Geral da Sessão**
+
+-   Essa sessão apresenta, de maneira **simples e direta**, a
+    **informática básica**, trazendo **conceitos e fundamentos
+    essenciais** que qualquer pessoa que utiliza um computador deveria
+    conhecer.
+-   Certos conceitos que antes eu não entendia passaram a fazer sentido,
+    como:
+    -   **comandos do terminal**,
+    -   **plataformas para interação e pedidos de ajuda**,
+    -   e outros fundamentos importantes.
+-   É uma excelente sessão para quem está **começando do zero** e ainda
+    **não entende nada de computação** --- porém, são **conceitos
+    fundamentais** que **todo programador deve dominar**.
+
+#### ⭐ **Avaliação Final da Sessão**
+
+**Nota:** ⭐⭐⭐⭐⭐ **5 / 5**
+Uma sessão **muito objetiva**, **bem fundamentada** e extremamente útil
+para criar uma **base sólida**.
 
 🔤 **[2_sessao_OS](/Cursos/Informática/2_sessao_OS/)**  
 💭 Futura opinião sobre os fundamentos básicos...
